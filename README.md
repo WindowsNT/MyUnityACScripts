@@ -22,4 +22,8 @@ Put this to the "Hotspot" root as component. Allows hotspots to be visible as gi
 
 Put this to BackgroundImage components to allow automatic image switchign (say day/night) based on a global variable.
 
+# AutoCameraSwitch
+
+Switches the selected camera's background when the camera is selected without the need to press the "Set Active" button.
+Put it in your assets in an "Editor" folder.
  
